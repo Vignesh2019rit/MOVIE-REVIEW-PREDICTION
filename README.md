@@ -1,5 +1,6 @@
-# Flight-delay-prediction AZURE GALLERY LINK:
+# MOVIE REVIEW PREDICTION: 
 
+AZURE GALLERY LINK:
 https://gallery.azure.ai/Experiment/Movierating-prediction-2
 
 # Description
