@@ -10,6 +10,11 @@ https://gallery.azure.ai/Experiment/Movierating-prediction-2
   Thus the system excludes human efforts and saves time and resources. Disadvantages The system must be given proper inputs otherwise system can produce wrong results. The system needs to be hosted on cloud to receive and process country wide results.
 
 # Model Pictures:
+
+
+![image(4)](https://user-images.githubusercontent.com/89579555/152369233-d000732c-6839-4884-a7ff-ff2efbecab5a.png)
+
+
 ![image](https://user-images.githubusercontent.com/89579555/152369120-e584d3ef-1a61-4394-9c59-d7199e591014.png)
 
 
@@ -21,8 +26,6 @@ https://gallery.azure.ai/Experiment/Movierating-prediction-2
 
 ![image(3)](https://user-images.githubusercontent.com/89579555/152369216-72add909-f84e-482f-b357-d2bbdab16571.png)
 
-
-![image(4)](https://user-images.githubusercontent.com/89579555/152369233-d000732c-6839-4884-a7ff-ff2efbecab5a.png)
 
 ![image(5)](https://user-images.githubusercontent.com/89579555/152369256-4c0bf39f-349a-4e16-a84d-f766c6b1cbf0.png)
 
