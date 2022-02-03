@@ -1,4 +1,4 @@
-# MOVIE REVIEW PREDICTION: 
+# MOVIE RATING PREDICTION: 
 
 AZURE GALLERY LINK:
 https://gallery.azure.ai/Experiment/Movierating-prediction-2
