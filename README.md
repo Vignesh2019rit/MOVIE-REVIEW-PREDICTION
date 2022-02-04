@@ -30,7 +30,7 @@ https://gallery.azure.ai/Experiment/Movierating-prediction-2
 
 ![image(5)](https://user-images.githubusercontent.com/89579555/152369256-4c0bf39f-349a-4e16-a84d-f766c6b1cbf0.png)
 
-DETAILED DESCRIPTION
+#DETAILED DESCRIPTION
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
 
 I have used the below modules for my experiment in the given order
@@ -77,7 +77,7 @@ I have used the below modules for my experiment in the given order
    this evaluate recommender is used to evaluates a recommender model.
 After creating, run the model by clicking run button in the bottom side. After running successfully, we can score and evaluate the model.
 
-Deploying the model:
+#Deploying the model:
 Deploy the model by Setting up Web Service in ML Studio. For first time select Update Predictive Experiment. after deployment of model, it can be used in webs.
 
 Web Service Consumption options:
