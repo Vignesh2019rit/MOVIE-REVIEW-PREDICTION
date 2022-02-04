@@ -12,22 +12,23 @@ https://gallery.azure.ai/Experiment/Movierating-prediction-2
 
 # Model Pictures:
 
-
+# MOVIE RATING PREDICTION MACHINE LEARNING MODEL
 ![image(4)](https://user-images.githubusercontent.com/89579555/152369233-d000732c-6839-4884-a7ff-ff2efbecab5a.png)
 
+# MOVIE RATING PREDICTION DATASET
 
 ![image](https://user-images.githubusercontent.com/89579555/152369120-e584d3ef-1a61-4394-9c59-d7199e591014.png)
 
-
+# TRAINED MODEL
 ![image(1)](https://user-images.githubusercontent.com/89579555/152369127-fb624f39-928f-4d3c-bb93-331cd3553cb6.png)
 
-
+# SCORE MODEL RATING PREDICTION
 ![image(2)](https://user-images.githubusercontent.com/89579555/152369182-01b170fa-8549-40cb-9819-8b9f3359fd40.png)
 
-
+# SCORE MODEL FROM RATED PREDICTION
 ![image(3)](https://user-images.githubusercontent.com/89579555/152369216-72add909-f84e-482f-b357-d2bbdab16571.png)
 
-
+# EVALUATED MODEL FOR RATING
 ![image(5)](https://user-images.githubusercontent.com/89579555/152369256-4c0bf39f-349a-4e16-a84d-f766c6b1cbf0.png)
 
 # DETAILED DESCRIPTION
