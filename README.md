@@ -13,23 +13,26 @@ https://gallery.azure.ai/Experiment/Movierating-prediction-2
 # Model Pictures:
 
 # MOVIE RATING PREDICTION MACHINE LEARNING MODEL
-![image(4)](https://user-images.githubusercontent.com/89579555/152369233-d000732c-6839-4884-a7ff-ff2efbecab5a.png)
+![image](https://user-images.githubusercontent.com/89579555/152915100-2a9e7084-f643-4e85-9456-c1f65db099d4.png)
+
+
 
 # MOVIE RATING PREDICTION DATASET
 
-![image](https://user-images.githubusercontent.com/89579555/152369120-e584d3ef-1a61-4394-9c59-d7199e591014.png)
+![image](https://user-images.githubusercontent.com/89579555/152915045-ac8a7e6d-78e3-48e0-9d88-3fe15b354da9.png)
+
 
 # TRAINED MODEL
-![image(1)](https://user-images.githubusercontent.com/89579555/152369127-fb624f39-928f-4d3c-bb93-331cd3553cb6.png)
+![image](https://user-images.githubusercontent.com/89579555/152915188-899ceee1-273d-491e-b311-ddad0ebab47c.png)
 
 # SCORE MODEL RATING PREDICTION
-![image(2)](https://user-images.githubusercontent.com/89579555/152369182-01b170fa-8549-40cb-9819-8b9f3359fd40.png)
+![image](https://user-images.githubusercontent.com/89579555/152915314-3806951e-ebf4-4fff-8346-173ef03134e6.png)
 
-# SCORE MODEL FROM RATED PREDICTION
-![image(3)](https://user-images.githubusercontent.com/89579555/152369216-72add909-f84e-482f-b357-d2bbdab16571.png)
+
 
 # EVALUATED MODEL FOR RATING
-![image(5)](https://user-images.githubusercontent.com/89579555/152369256-4c0bf39f-349a-4e16-a84d-f766c6b1cbf0.png)
+![image](https://user-images.githubusercontent.com/89579555/152915407-35e7144b-7625-417d-8e42-26ff49cfa1b8.png)
+
 
 # DETAILED DESCRIPTION
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
